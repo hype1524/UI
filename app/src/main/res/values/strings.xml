@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UI</string>
+    <string name="home">Home</string>
+    <string name="chat">Chat</string>
+    <string name="projects">Projects</string>
+    <string name="notification">Notification</string>
+    <string name="setting">Setting</string>
+</resources>
